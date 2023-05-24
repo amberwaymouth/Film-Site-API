@@ -1,0 +1,3 @@
+type Password = {
+    password: string
+}
